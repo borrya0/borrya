@@ -1,4 +1,4 @@
-'use strict'
+
 a = 5;
 console.log(a);
 
@@ -31,3 +31,5 @@ console.log(abc && !cba);
 let def = false;
     fed = false;
 console.log( !def || fed)
+
+    alert("Hellow World!");
